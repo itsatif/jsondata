@@ -1,0 +1,204 @@
+[
+  {
+      "building ": 1,
+      "id": 1,
+      "data": [
+          {
+              "floor": "2nd Floor",
+              "id": 1,
+              "Room": [
+                  {
+                      "id": 1,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 2,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 3,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 4,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  }
+              ]
+          },
+          {
+              "floor": "4th Floor",
+              "id": 2,
+              "Room": [
+                  {
+                      "id": 1,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 2,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 3,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  }
+              ]
+          },
+          {
+              "floor": "8th Floor",
+              "id": 3,
+              "Room": [
+                  {
+                      "id": 1,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 2,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 3,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 4,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  }
+              ]
+          }
+      ]
+  },
+  {
+      "building ": 2,
+      "id": 2,
+      "data": [
+          {
+              "floor": "2nd Floor",
+              "id": 1,
+              "Room": [
+                  {
+                      "id": 1,
+                      "SET Temp 1": 20,
+                      "Supply Air temp": 20,
+                      "Area temp": 21.5,
+                      "Area Humidity": 80
+                  },
+                  {
+                      "id": 2,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 3,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 4,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  }
+              ]
+          },
+          {
+              "floor": "4th Floor",
+              "id": 2,
+              "Room": [
+                  {
+                      "id": 1,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 2,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 3,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  }
+              ]
+          },
+          {
+              "floor": "8th Floor",
+              "id": 3,
+              "Room": [
+                  {
+                      "id": 1,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 2,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 3,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  },
+                  {
+                      "id": 4,
+                      "SET Temp 1": 20.6,
+                      "Supply Air temp": 20.8,
+                      "Area temp": 21.2,
+                      "Area Humidity": 60
+                  }
+              ]
+          }
+      ]
+  }
+]
