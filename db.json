@@ -1,43 +1,22 @@
-
-  [
 {
-"name": "Afghanistan",
-"dial_code": "+93",
-"code": "AF"
-},
-{
-"name": "Albania",
-"dial_code": "+355",
-"code": "AL"
-},
-{
-"name": "Algeria",
-"dial_code": "+213",
-"code": "DZ"
-},
-{
-"name": "AmericanSamoa",
-"dial_code": "+1684",
-"code": "AS"
-},
-{
-"name": "Andorra",
-"dial_code": "+376",
-"code": "AD"
-},
-{
-"name": "Antarctica",
-"dial_code": "+672",
-"code": "AQ"
-},
-{
-"name": "Antigua and Barbuda",
-"dial_code": "+1268",
-"code": "AG"
-},
-{
-"name": "Argentina",
-"dial_code": "+54",
-"code": "AR"
-},
-]
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com"
+    },
+    {
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com"
+    },
+    {
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
+    }
+  ]
+}
